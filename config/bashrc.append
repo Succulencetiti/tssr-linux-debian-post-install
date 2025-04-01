@@ -1,7 +1,7 @@
 alias ll='ls -la --color=auto'
 PS1='\u@\h:\w\$ '
 alias grep='grep --color=auto'
-export EDITOR="vim"
+export EDITOR="nano"
 alias ..='cd ..'
 alias ...='cd ../..'
 echo "Welcome back, Patricia! Have a nice day!"

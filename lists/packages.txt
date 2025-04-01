@@ -2,3 +2,8 @@ nmap
 net-tools
 htop
 curl
+vim
+git
+tar
+tree
+iftop
